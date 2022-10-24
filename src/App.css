@@ -10,16 +10,16 @@ header {
   gap: 15px;
   align-items: center;
   padding: 0px 80px;
-  background: #25aae1;
+  background: green;
 }
 
 button {
   height: 44px;
   font-size: 22px;
   padding: 0px 12px;
-  color: #25aae1;
+  color: green;
   background-color: transparent;
-  border: 2px solid #25aae1;
+  border: 2px solid green;
   border-radius: 3px;
   min-width: 125px;
 }
